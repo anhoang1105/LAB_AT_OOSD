@@ -1,0 +1,16 @@
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.csproj.AssemblyReference.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLab2.Forms.FrmMain.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.Properties.Resources.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.csproj.GenerateResource.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.csproj.CoreCompileInputs.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLab2.Forms.FrmTaiLieu.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\bin\Debug\QuanLyThuVienLAB2.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\bin\Debug\QuanLyThuVienLAB2.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\bin\Debug\QuanLyThuVienLAB2.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLab2.Forms.FrmNguoiDung.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLab2.Forms.FrmMuonTra.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLAB2.Forms.FrmYeuCauDatMua.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\github\LAB2\QuanLyThuVienLAB2\QuanLyThuVienLAB2\obj\Debug\QuanLyThuVienLab2.Forms.FrmThongKe.resources
