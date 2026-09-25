@@ -1,0 +1,81 @@
+﻿using System;
+using System.Windows.Forms;
+using QuanLyKhachSanLAB3.Services;
+
+namespace QuanLyKhachSanLAB3.Forms
+{
+    public partial class FrmDichVu : Form
+    {
+        readonly DichVuService s = new DichVuService();
+        readonly DanhMucService dm = new DanhMucService();
+        readonly InAnService inAn = new InAnService();
+        public FrmDichVu()
+        {
+            InitializeComponent();
+
+            // TỰ ĐỘNG NỐI SỰ KIỆN: Không cần thao tác ở giao diện Design
+            this.Load += FrmDichVu_Load;
+            cboLuot.SelectedIndexChanged += cboLuot_SelectedIndexChanged;
+            btnGhi.Click += btnGhi_Click;
+            btnDong.Click += btnDong_Click;
+            if (btnInPhieuTrang != null)
+                btnInPhieuTrang.Click += (sender, e) => inAn.InPhieuDichVu();
+        }
+
+        private void FrmDichVu_Load(object sender, EventArgs e)
+        {
+            // Nạp dữ liệu vào các ComboBox
+            cboLuot.DataSource = s.LayPhieuDangO();
+            cboLuot.DisplayMember = "SoPhieuDat";
+            cboLuot.ValueMember = "SoPhieuDat";
+
+            cboDV.DataSource = s.LayDichVu();
+            cboDV.DisplayMember = "TenDV";
+            cboDV.ValueMember = "MaDV";
+
+            cboNV.DataSource = dm.LayNhanVien();
+            cboNV.DisplayMember = "HoTen";
+            cboNV.ValueMember = "MaNV";
+
+            Tai();
+        }
+
+        void Tai()
+        {
+            if (cboLuot.SelectedValue != null)
+            {
+                dgvLichSu.DataSource = s.LayLichSu(cboLuot.SelectedValue.ToString());
+            }
+        }
+
+        string V(ComboBox c)
+        {
+            return c.SelectedValue == null ? "" : c.SelectedValue.ToString();
+        }
+
+        // Tự động điền số phòng khi chọn phiếu ở ComboBox
+        private void cboLuot_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cboLuot.SelectedItem is System.Data.DataRowView r)
+            {
+                txtPhong.Text = Convert.ToString(r["SoPhong"]);
+            }
+            Tai();
+        }
+
+        private void btnGhi_Click(object sender, EventArgs e)
+        {
+            var k = s.GhiNhan(V(cboLuot), txtPhong.Text.Trim(), dtNgay.Value, V(cboNV), V(cboDV), (int)numSL.Value);
+            MessageBox.Show(k.ThongBao);
+            if (k.ThanhCong)
+            {
+                Tai();
+            }
+        }
+
+        private void btnDong_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+    }
+}

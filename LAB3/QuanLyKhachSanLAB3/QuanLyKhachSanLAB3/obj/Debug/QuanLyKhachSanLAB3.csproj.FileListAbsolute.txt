@@ -1,0 +1,17 @@
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\bin\Debug\QuanLyKhachSanLAB3.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\bin\Debug\QuanLyKhachSanLAB3.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\bin\Debug\QuanLyKhachSanLAB3.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.csproj.AssemblyReference.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Properties.Resources.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.csproj.GenerateResource.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.csproj.CoreCompileInputs.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmMain.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmDanhMuc.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmPhongTienNghi.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmDatPhong.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmDichVu.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmTraPhong.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB3\QuanLyKhachSanLAB3\QuanLyKhachSanLAB3\obj\Debug\QuanLyKhachSanLAB3.Forms.FrmThongKe.resources
