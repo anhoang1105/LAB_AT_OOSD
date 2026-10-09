@@ -1,0 +1,11 @@
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.AssemblyReference.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.Forms.FrmMain.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe.config
