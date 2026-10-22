@@ -1,0 +1,13 @@
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.csproj.AssemblyReference.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.Properties.Resources.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.csproj.GenerateResource.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.csproj.CoreCompileInputs.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\bin\Debug\QuanLyHoSoBenhAn.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\bin\Debug\QuanLyHoSoBenhAn.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\bin\Debug\QuanLyHoSoBenhAn.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.Forms.FrmDanhMuc.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.Forms.FrmKhamBenh.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.Forms.FrmTiepNhan.resources
