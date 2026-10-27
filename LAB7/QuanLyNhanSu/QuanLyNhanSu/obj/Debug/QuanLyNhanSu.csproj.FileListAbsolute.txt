@@ -1,0 +1,10 @@
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\18\bt\PhuongPhapPhatTrienPhanMemHuongDoiTuong\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.config
